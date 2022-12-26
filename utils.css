@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    font-size: 23px;
+    color: rgba(251, 249, 249, 0.858);
+    
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items{
+   align-items: center;
+    
+}
